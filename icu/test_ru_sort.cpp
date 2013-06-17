@@ -1,3 +1,6 @@
+/**
+ * @see http://userguide.icu-project.org/collation/examples
+ */
 #include <stdio.h>
 #include "unicode/unistr.h"
 #include "unicode/utypes.h"
